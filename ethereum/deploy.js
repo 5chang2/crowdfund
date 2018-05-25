@@ -4,7 +4,7 @@ const compiledFactory = require('./build/CampaignFactory.json');
 
 const provider = new HDWalletProvider(
   'news possible plate width account payment exchange car tray neglect jacket wealth',
-  'https://rinkeby.infura.io/J9ezcxyo8pwuP3rWnsP6'
+  'https://ropsten.infura.io/J9ezcxyo8pwuP3rWnsP6'
 );
 
 const web3 = new Web3(provider);
